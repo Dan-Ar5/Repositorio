@@ -1,0 +1,17 @@
+.form-box {
+  text-align: center;
+}
+
+.input-text {
+  display: inline-block;
+  width: 30%;
+  border: black solid 2.5px;
+}
+body{
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: black;
+}
+.fondo{
+  background-color: aquamarine;
+  padding: 0%;
+}
